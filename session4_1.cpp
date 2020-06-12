@@ -8,5 +8,5 @@ int main(){
 	for(int i=1;i<=n;i++){
 		S += (float)1/i;
 	}
-	printf("S= %f\n",S);
+	printf("S= %f\n",S); 
 }
