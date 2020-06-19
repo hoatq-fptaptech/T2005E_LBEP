@@ -16,7 +16,7 @@ int main(){
 	for(int i=5;i<10;i++){
 		printf("\nNhap pt thu %d",i);
 		scanf("%d",p+i);
-	}
+	} 
 	printf("\nIn mang:\n");
 	for(int i=0;i<10;i++){
 		printf("%d\t",*(p+i));
